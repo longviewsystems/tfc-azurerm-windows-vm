@@ -10,7 +10,7 @@ import (
 func TestVMmodule(t *testing.T) {
 	options := &terraform.Options{
 		TerraformDir: "./fixtures",
-		VarFiles:     []string{"linux-vm.tfvars"},
+		VarFiles:     []string{"windows-vm.tfvars"},
 	}
 
 	defer terraform.Destroy(t, options)
