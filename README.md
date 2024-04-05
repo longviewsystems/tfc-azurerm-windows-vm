@@ -1,6 +1,6 @@
 ## Overview
 
-This module provisions a Linux virtual machine in Azure for ServiceNow + TF Cloud integration demo.
+This module provisions a Windows virtual machine in Azure for ServiceNow + TF Cloud integration demo.
 
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 ## Requirements
