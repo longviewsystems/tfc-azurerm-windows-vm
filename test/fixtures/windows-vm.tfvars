@@ -1,4 +1,4 @@
-# location = "eastus"
+
 # tags = {
 #   environment = "test"
 #   managed_by  = "terratest"
